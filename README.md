@@ -5,4 +5,4 @@ Python data analysis project with data from Our World in data website
 ## Tech stack
 - Python
 - ## Visualization & Documentation
-See visualization insight at [visualizeghana.com](https://visualizeghana.com/2024/01/hiv-in-ghana.html)https://visualizeghana.com/2024/01/hiv-in-ghana.html)
+See visualization insight at [visualizeghana.com](https://visualizeghana.com/2024/01/hiv-in-ghana.html)
